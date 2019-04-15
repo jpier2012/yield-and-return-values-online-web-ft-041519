@@ -1,1 +1,1 @@
-require_relative '../lib/practicing_returns'
+require_relative './lib/practicing_returns'
